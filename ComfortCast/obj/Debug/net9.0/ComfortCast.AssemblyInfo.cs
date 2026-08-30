@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComfortCast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6aba79cb03257cec3e3be39756e7dcf0bfd0c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComfortCast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComfortCast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
