@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.19" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ComfortCast.Application\ComfortCast.Application.csproj" />
+    <ProjectReference Include="..\ComfortCast.Infrastructure\ComfortCast.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

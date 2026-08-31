@@ -1,6 +1,0 @@
-@ComfortCast_HostAddress = http://localhost:5244
-
-GET {{ComfortCast_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
